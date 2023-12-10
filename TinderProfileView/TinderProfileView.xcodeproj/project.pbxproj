@@ -13,6 +13,8 @@
 		56A9DE412B25CEB400617374 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 56A9DE3F2B25CEB400617374 /* Main.storyboard */; };
 		56A9DE432B25CEB500617374 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 56A9DE422B25CEB500617374 /* Assets.xcassets */; };
 		56A9DE462B25CEB500617374 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 56A9DE442B25CEB500617374 /* LaunchScreen.storyboard */; };
+		56A9DE4F2B25D29200617374 /* ProfileHeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56A9DE4D2B25D29200617374 /* ProfileHeaderView.swift */; };
+		56A9DE502B25D29200617374 /* ProfileHeaderView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 56A9DE4E2B25D29200617374 /* ProfileHeaderView.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		56A9DE422B25CEB500617374 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		56A9DE452B25CEB500617374 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		56A9DE472B25CEB500617374 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		56A9DE4D2B25D29200617374 /* ProfileHeaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileHeaderView.swift; sourceTree = "<group>"; };
+		56A9DE4E2B25D29200617374 /* ProfileHeaderView.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = ProfileHeaderView.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +63,8 @@
 				56A9DE392B25CEB400617374 /* AppDelegate.swift */,
 				56A9DE3B2B25CEB400617374 /* SceneDelegate.swift */,
 				56A9DE3D2B25CEB400617374 /* ViewController.swift */,
+				56A9DE4D2B25D29200617374 /* ProfileHeaderView.swift */,
+				56A9DE4E2B25D29200617374 /* ProfileHeaderView.xib */,
 				56A9DE3F2B25CEB400617374 /* Main.storyboard */,
 				56A9DE422B25CEB500617374 /* Assets.xcassets */,
 				56A9DE442B25CEB500617374 /* LaunchScreen.storyboard */,
@@ -128,6 +134,7 @@
 				56A9DE462B25CEB500617374 /* LaunchScreen.storyboard in Resources */,
 				56A9DE432B25CEB500617374 /* Assets.xcassets in Resources */,
 				56A9DE412B25CEB400617374 /* Main.storyboard in Resources */,
+				56A9DE502B25D29200617374 /* ProfileHeaderView.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -141,6 +148,7 @@
 				56A9DE3E2B25CEB400617374 /* ViewController.swift in Sources */,
 				56A9DE3A2B25CEB400617374 /* AppDelegate.swift in Sources */,
 				56A9DE3C2B25CEB400617374 /* SceneDelegate.swift in Sources */,
+				56A9DE4F2B25D29200617374 /* ProfileHeaderView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
